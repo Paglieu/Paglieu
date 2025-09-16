@@ -2,11 +2,11 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 ## 🚀 Sobre mim
-- Em transição para a área de Analise e Engenharia de Dados. Atualmente faço parte da Positivo Tecnologia, atuando como técnico de Suporte Júnior.
+Analista de Dados Jr, com formação em Ciência da Computação e cursando Pós-Graduação em Engenharia de Dados. Trabalho na empresa Positivo e estudo desenvolvimento de dashboards e relatórios interativos em Power BI, aplicação de SQL para consulta, apoio à tomada de decisão e manipulação de bases de dados, e utilização de Python e sua bibliotecas para automação, tratamento e análise de dados (ETL).
   
 ## 🎓 Formação
-- Bacharel em Ciência da Computação pela Universidade Anhembi Morumbi
-- Pós-Graduação em Engenharia de dados pela Universidade PUC Minas
+- Bacharel em Ciência da Computação - Universidade Anhembi Morumbi
+- Pós-Graduação em Engenharia de dados - PUC Minas
 
 ## 🛠 Tecnologias e Ferramentas
 - Python (Pandas | Pyodbc | Web Scraping | Automações)
