@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, me chamo Gabriel Paglia ! 
+## Bem vindo ao meu perfil GitHub 👋
 
-<!--
-**Paglieu/Paglieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
+- Em transição para a área de Analise e Engenharia de Dados. Atualmente faço parte da Positivo Tecnologia, atuando como técnico de Suporte Júnior.
+  
+## 🎓 Formação
+- Bacharel em Ciência da Computação pela Universidade Anhembi Morumbi
+- Pós-Graduação em Engenharia de dados pela Universidade PUC Minas
 
-Here are some ideas to get you started:
+## 🛠 Tecnologias e Ferramentas
+- Python (Pandas | Pyodbc | Web Scraping | Automações)
+- SQL (Consultas | Subqueries}
+- Power BI (DAX) 
+- Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📩 Contatos
+<div>
+<a href = "ga.paglia22@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gabrielpaglia" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+## Projeto em destaque
+[![Meu Projeto](https://img.shields.io/badge/Dashboard-Brasileirão-blue)](https://github.com/Paglieu/DashBoard_Brasileirao2025)
+
+## 💻 Github
+<div>
+<a href="https://github.com/Paglieu">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paglieu&layout=compact&langs_count=7&theme=dracula"/>
+</div>
