@@ -20,5 +20,5 @@ Analista de Dados Jr, com formação em Ciência da Computação e cursando Pós
 <a href="https://www.linkedin.com/in/gabrielpaglia" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## Projeto em destaque
+## 💻 Projeto em destaque
 [![Meu Projeto](https://img.shields.io/badge/Dashboard-Brasileirão-blue)](https://github.com/Paglieu/DashBoard_Brasileirao2025)
