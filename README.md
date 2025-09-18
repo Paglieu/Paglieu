@@ -22,9 +22,3 @@ Analista de Dados Jr, com formação em Ciência da Computação e cursando Pós
 
 ## Projeto em destaque
 [![Meu Projeto](https://img.shields.io/badge/Dashboard-Brasileirão-blue)](https://github.com/Paglieu/DashBoard_Brasileirao2025)
-
-## 💻 Github
-<div>
-<a href="https://github.com/Paglieu">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paglieu&layout=compact&langs_count=7&theme=dracula"/>
-</div>
