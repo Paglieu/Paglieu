@@ -20,5 +20,6 @@ Analista de Dados Jr, com formação em Ciência da Computação e cursando Pós
 <a href="https://www.linkedin.com/in/gabrielpaglia" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## 💻 Projeto em destaque
+## 💻 Projetos em destaque
 - [Dashboard - Brasileirão 2025](https://github.com/Paglieu/DashBoard_Brasileirao2025)</br>
+- [Dashboard - Retrospectiva Spotify 2025](https://github.com/Paglieu/Dashboard_Spotify_2025)</br>
