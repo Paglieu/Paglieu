@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 ## 🚀 Sobre mim
-Analista de Dados Jr, com formação em Ciência da Computação e cursando Pós-Graduação em Engenharia de Dados. Trabalho na empresa dnata, uma empresa de aviação, como Analista de Projetos e Dados. Estudo desenvolvimento de Dashboards e relatórios interativos em Power BI, aplicação de SQL para consulta, apoio à tomada de decisão e manipulação de bases de dados, e utilização de Python e sua bibliotecas para automação, scripts, tratamento e análise de dados (ETL).
+Analista de Dados Jr, com formação em Ciência da Computação e cursando Pós-Graduação em Engenharia de Dados. Trabalho na dnata, uma empresa de aviação e handling, como Analista de Projetos e Dados. Estudo desenvolvimento de Dashboards e relatórios interativos em Power BI, aplicação de SQL para consulta, apoio à tomada de decisão e manipulação de bases de dados, e utilização de Python e sua bibliotecas para automação, scripts, tratamento e análise de dados (ETL).
   
 ## 🎓 Formação
 - Bacharel em Ciência da Computação - Universidade Anhembi Morumbi
