@@ -21,5 +21,6 @@ Analista de Dados Jr, com formação em Ciência da Computação e cursando Pós
 </div>
 
 ## 💻 Projetos em destaque
+- [Dashboard - Congresso Nacional](https://github.com/Paglieu/Dashboard-Congresso-Nacional)</br>
 - [Dashboard - Brasileirão 2025](https://github.com/Paglieu/DashBoard_Brasileirao2025)</br>
 - [Dashboard - Retrospectiva Spotify 2025](https://github.com/Paglieu/Dashboard_Spotify_2025)</br>
